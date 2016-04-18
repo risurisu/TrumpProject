@@ -24,7 +24,10 @@ In the future, I would like to include those with images that pop up reacting to
 
 As is stands, the user will be presented with a quote and will have the option of selecting who they think said the quote by clicking on either the photo of Bender or Trump. They will be informed on whether the guess was correct or incorrect with an incremental counter displaying their score after every round. The game will last for twenty quotes and will end with a reminder to vote in the New York primaries.
 
-The preliminary mockup can be seen below. As this is a straightforward game, a straightforward design seemed to make the most sense. ScreenShot
+This game is dependent on Javascript arrays and conditionals with some DOM manipulation and event handlers. While no JQuery animation has been used, it will more likely be implemented in a later version along with pop up images dependent on the user's correct or incorrect answer. 
+
+The preliminary mockup can be seen below. As this is a straightforward game, a straightforward design seemed to make the most sense. 
+![Mockup](https://github.com/risurisu/TrumpProject/blob/master/DonaldMockup.png)
 
 What the user will see when first encountering the game: 
 ![First Look](https://github.com/risurisu/TrumpProject/blob/master/First_Look.png)
